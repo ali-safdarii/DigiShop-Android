@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+option java_package = "com.example.digishop";
+option java_multiple_files = true;
+
+message DataStoreToken {
+  string authToken = 1;
+}

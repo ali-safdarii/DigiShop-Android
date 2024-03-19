@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">DigiShop</string>
+    <string name="lorem_ipsum">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است، و برای شرایط فعلی تکنولوژی مورد نیاز، و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد، کتابهای زیادی در شصت و سه درصد گذشته حال و آینده، شناخت فراوان جامعه و متخصصان را می طلبد، تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی، و فرهنگ پیشرو در زبان فارسی ایجاد کرد، در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها، و شرایط سخت تایپ به پایان رسد و زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی، و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.</string>
+    <string name="err_unknown">خطای پیش بینی نشده ایی رخ داده است</string>
+    <string name="err_too_many_request">تعداد درخواست‌ها زیاد است. لطفاً کمی صبر کنید و یا بعداً دوباره تلاش کنید </string>
+    <string name="adding_to_cart">اضافه به سبد خرید</string>
+
+
+    <string name="continue_to_buy">ادامه فرآیند خرید</string>
+    <string name="final_order_total">مبلغ قابل پرداخت</string>
+    <string name="final_cart_total">جمع سبد خرید</string>
+
+
+    <string name="empty_list_message">سبد خرید شما خالی است</string>
+    <string name="socket_time_out_message">عدم ارتباط با سرور</string>
+    <string name="user_address">"ایران ، تهران ، منیریه خیابان هشتم ، کوچه مقدم ، کوی فرهنگیان ، بلوار مطهری ، ساختمان پردیس ، طبقه 6 ، واحد 10 ، پلاک 32 "</string>
+    <string name="edit_address_label">تغییر یا ویرایش آدرس</string>
+    <string name="send_label">ارسال</string>
+
+    <string name="email_validation_failed_message">ایمیل اشتباه است</string>
+    <string name="password_lengh_failed_message">رمز عبور نباید کمتر از  5 رقم باشد</string>
+    <string name="empty_fields_message">ایمیل یا رمز عبور خود را وارد کنید</string>
+    <string name="password_label">رمز عبور</string>
+    <string name="email_label">ایمیل</string>
+    <string name="login_button_label">"ورود به برنامه "</string>
+    <string name="empty_cart_message">سبد خرید شما خالی است</string>
+    <string name="category">دسته بندی</string>
+    <string name="inventory">موجود در انبار دیجی کالا</string>
+    <string name="success_login_message">با موفقیت وارد شدید</string>
+
+
+</resources>
