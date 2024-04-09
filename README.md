@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<p><img src="https://github.com/ali-safdarii/PickyShop/blob/main/demo/logo_3.jpg" width="300" height="300" ></p>
+<p><img src="https://s8.uupload.ir/files/logo_3_gd7r.jpg" width="300" height="300" ></p>
 
 
 # Modern Android E-commerce App
@@ -19,18 +19,21 @@ Welcome to our modern e-commerce Android application! This application is design
 ## How to use:
 This project utilizes the backend repository provided here: [click here](https://github.com/ali-safdarii/DigiShop-Laravel).
 
-## Demo
+&nbsp;
+&nbsp;
+&nbsp;
 
-https://github.com/ali-safdarii/PickyShop/assets/75532674/5c613d6c-4e91-4e5d-adfa-80e959cd3dcd
+## Demo  [720-Here](https://drive.google.com/file/d/1ml97JIxcQyeHxz-E1PIB078NtjSHHU66/view?usp=sharing)
+https://github.com/ali-safdarii/DigiShop-Android/assets/75532674/cc24f861-67b9-4e8a-87bf-dc93c3f90f04
 
-
-
-
+&nbsp;
+&nbsp;
+&nbsp;
 
 ## Gifs
 | AuthScreen       | MainScreen      | DetailsScreen      | OnBoarding      |
 | ------------- | ------------- | ------------- | ------------- |
-| ![Auth](https://github.com/ali-safdarii/PickyShop/blob/main/demo/gifs%20-%20auth.gif) | ![Main](https://github.com/ali-safdarii/PickyShop/blob/main/demo/gifs%20-%20main.gif) | ![Details](https://github.com/ali-safdarii/PickyShop/blob/main/demo/gifs%20-%20details.gif) | ![onboarding](https://github.com/ali-safdarii/PickyShop/blob/main/demo/gifs%20-%20onboarding.gif) |
+| ![Auth](https://s8.uupload.ir/files/gifs_-_auth_546z.gif) | ![Main](https://s8.uupload.ir/files/gifs_-_main_k1g5.gif) | ![Details](https://s8.uupload.ir/files/gifs_-_details_bx7f.gif) | ![onboarding](https://s8.uupload.ir/files/gifs_-_onboarding_2z3w.gif) |
 
 
 
